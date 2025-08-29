@@ -11,5 +11,5 @@ function calcular(){
     var x=magnitud*Math.cos(rad);
     var y=magnitud*Math.sin(rad);
 
-    document.getElementById("resultado").innerHTML="Componenete en X:"+x+"<br>Componente en Y:"+y;
+    document.getElementById("resultado").innerHTML="Componenete en X: "+x+"<br>Componente en Y: "+y;
 }
